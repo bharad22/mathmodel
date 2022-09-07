@@ -6,3 +6,15 @@ math.py
 stock.py
 reg.py 
 utility.py 
+
+https://raw.githubusercontent.com/ashwathkkp/mm/main/{fileName}
+
+arima.py cubic.py deseasonalize.py divided.py forward.py lagrange.py linear.py log.py multiple.py power.py r2.py trendanalysis.py ttest.py
+
+https://raw.githubusercontent.com/AmrithaNagarajan/mm/main/{fileName}
+
+interpolation.py reg.py lag_divided.py seasonal.py
+
+https://raw.githubusercontent.com/bhavadharanijb/mm/main/{fileName}
+
+arima.py arima1.py arma.py backward.py cubic.py forward.py lagrange.py linreg.py mulreg.py newton.py timeseries.py
